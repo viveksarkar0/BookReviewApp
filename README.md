@@ -100,11 +100,11 @@ This project demonstrates a full-stack application with CRUD functionality, show
 5. **Start the Application**:
    - **Backend**:
      ```bash
-     npm run start:backend
+     npm start
      ```
    - **Frontend**:
      ```bash
-     npm run start:frontend
+     npm run dev
      ```
 
 ---
